@@ -93,9 +93,9 @@
       "query": "热门"
     },
         {
-      "name": "港剧",
+      "name": "2025 港剧",
       "type": "tv",
-      "query": "港剧"
+      "query": "2025 港剧"
     },
         {
       "name": "热门",
@@ -106,11 +106,6 @@
       "name": "最新",
       "type": "movie",
       "query": "最新"
-    },
-        {
-      "name": "情色",
-      "type": "tv",
-      "query": "情色"
     },
         {
       "name": "情色",
