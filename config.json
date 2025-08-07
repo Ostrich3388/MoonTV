@@ -106,6 +106,16 @@
       "name": "最新",
       "type": "movie",
       "query": "最新"
+    },
+        {
+      "name": "情色",
+      "type": "tv",
+      "query": "情色"
+    },
+        {
+      "name": "情色",
+      "type": "movie",
+      "query": "情色"
     }
   ]
 }
